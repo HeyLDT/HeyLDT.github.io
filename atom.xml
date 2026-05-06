@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Your Name</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://your-domain.com/</id>
+  <link href="https://your-domain.com/" rel="alternate"/>
+  <link href="https://your-domain.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Your Name</rights>
+  <subtitle>个人技术博客</subtitle>
+  <title>我的博客</title>
+  <updated>2026-05-06T06:37:14.941Z</updated>
+  <entry>
+    <author>
+      <name>Your Name</name>
+    </author>
+    <category term="随笔" scheme="https://your-domain.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="博客" scheme="https://your-domain.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="介绍" scheme="https://your-domain.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    <content>
+      <![CDATA[<p>欢迎来到我的个人技术博客！</p><p>这是一个使用 Hexo + Butterfly 主题搭建的静态博客。</p><h2 id="博客特点"><a href="#博客特点" class="headerlink" title="博客特点"></a>博客特点</h2><ul><li>简洁美观的主题</li><li>响应式设计，支持移动端</li><li>支持黑暗模式</li><li>内置评论系统</li></ul><h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><p>你可以继续阅读更多文章，或者在 GitHub 上关注我。</p><p>Enjoy! 🎉</p>]]>
+    </content>
+    <id>https://your-domain.com/2026/05/06/hello-world/</id>
+    <link href="https://your-domain.com/2026/05/06/hello-world/"/>
+    <published>2026-05-06T06:40:00.000Z</published>
+    <summary>
+      <![CDATA[<p>欢迎来到我的个人技术博客！</p>
+<p>这是一个使用 Hexo + Butterfly 主题搭建的静态博客。</p>
+<h2 id="博客特点"><a href="#博客特点" class="headerlink" title="博客特点"></a>博客特点</h2><u]]>
+    </summary>
+    <title>欢迎来到我的博客</title>
+    <updated>2026-05-06T06:37:14.941Z</updated>
+  </entry>
+</feed>
